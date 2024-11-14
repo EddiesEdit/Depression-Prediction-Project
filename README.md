@@ -1,5 +1,5 @@
 # End-End Depression Prediction¶
-Your Goal: Your goal is to use data from a mental health survey to explore factors that may cause individuals to experience depression. This Notebook is looks into machine leaning and Data science liberies. the aim of this project is to build a machine learning model that is capable of predicting whether or not and individual is depressed through the data provided by Kaggle.
+Your Goal: My goal is to use data from a mental health survey to explore factors that may cause individuals to experience depression. This Notebook is looks into machine leaning and Data science liberies. the aim of this project is to build a machine learning model that is capable of predicting whether or not and individual is depressed through the data provided by Kaggle.
 
 I am going to take the following approach
 
